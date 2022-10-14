@@ -1,2 +1,2 @@
 # training_projects
-# Представлены первые тренировочные проекты, выполненынные в ходе прохождения курса "Аналитик данных" компании karpov.courses
+# Presented the first training projects completed during the course "Data Analyst" by karpov.courses
